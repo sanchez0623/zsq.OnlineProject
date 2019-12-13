@@ -1,0 +1,11 @@
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\bin\Debug\netcoreapp2.2\zsq.Project.Infrastructure.deps.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\bin\Debug\netcoreapp2.2\zsq.Project.Infrastructure.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\bin\Debug\netcoreapp2.2\zsq.Project.Infrastructure.pdb
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\bin\Debug\netcoreapp2.2\zsq.Project.Domain.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\bin\Debug\netcoreapp2.2\zsq.Project.Domain.pdb
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\obj\Debug\netcoreapp2.2\zsq.Project.Infrastructure.csprojAssemblyReference.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\obj\Debug\netcoreapp2.2\zsq.Project.Infrastructure.AssemblyInfoInputs.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\obj\Debug\netcoreapp2.2\zsq.Project.Infrastructure.AssemblyInfo.cs
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\obj\Debug\netcoreapp2.2\zsq.Project.Infrastructure.csproj.CopyComplete
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\obj\Debug\netcoreapp2.2\zsq.Project.Infrastructure.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Infrastructure\obj\Debug\netcoreapp2.2\zsq.Project.Infrastructure.pdb

@@ -1,0 +1,17 @@
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\appsettings.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\Ocelot.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\zsq.ApiGateway.deps.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\zsq.ApiGateway.runtimeconfig.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\zsq.ApiGateway.runtimeconfig.dev.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\zsq.ApiGateway.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\bin\Debug\netcoreapp2.2\zsq.ApiGateway.pdb
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.csprojAssemblyReference.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.RazorAssemblyInfo.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.RazorAssemblyInfo.cs
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.AssemblyInfoInputs.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.AssemblyInfo.cs
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.RazorTargetAssemblyInfo.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.ApiGateway\obj\Debug\netcoreapp2.2\zsq.ApiGateway.pdb

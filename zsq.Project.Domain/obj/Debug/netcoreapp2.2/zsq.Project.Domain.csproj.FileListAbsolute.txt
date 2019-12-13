@@ -1,0 +1,8 @@
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\bin\Debug\netcoreapp2.2\zsq.Project.Domain.deps.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\bin\Debug\netcoreapp2.2\zsq.Project.Domain.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\bin\Debug\netcoreapp2.2\zsq.Project.Domain.pdb
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\obj\Debug\netcoreapp2.2\zsq.Project.Domain.csprojAssemblyReference.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\obj\Debug\netcoreapp2.2\zsq.Project.Domain.AssemblyInfoInputs.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\obj\Debug\netcoreapp2.2\zsq.Project.Domain.AssemblyInfo.cs
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\obj\Debug\netcoreapp2.2\zsq.Project.Domain.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.Project.Domain\obj\Debug\netcoreapp2.2\zsq.Project.Domain.pdb

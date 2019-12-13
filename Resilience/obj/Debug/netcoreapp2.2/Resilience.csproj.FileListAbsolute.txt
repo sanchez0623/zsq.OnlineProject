@@ -1,0 +1,8 @@
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\bin\Debug\netcoreapp2.2\Resilience.deps.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\bin\Debug\netcoreapp2.2\Resilience.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\bin\Debug\netcoreapp2.2\Resilience.pdb
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\obj\Debug\netcoreapp2.2\Resilience.csprojAssemblyReference.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\obj\Debug\netcoreapp2.2\Resilience.AssemblyInfoInputs.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\obj\Debug\netcoreapp2.2\Resilience.AssemblyInfo.cs
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\obj\Debug\netcoreapp2.2\Resilience.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\Resilience\obj\Debug\netcoreapp2.2\Resilience.pdb

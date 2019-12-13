@@ -1,0 +1,16 @@
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\appsettings.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\zsq.UserApi.deps.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\zsq.UserApi.runtimeconfig.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\zsq.UserApi.runtimeconfig.dev.json
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\zsq.UserApi.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\bin\Debug\netcoreapp2.2\zsq.UserApi.pdb
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.csprojAssemblyReference.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.RazorAssemblyInfo.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.RazorAssemblyInfo.cs
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.AssemblyInfoInputs.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.AssemblyInfo.cs
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.RazorTargetAssemblyInfo.cache
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.dll
+F:\IT\netcore\jessetalk\project\zsq.OnlineProject\zsq.UserApi\obj\Debug\netcoreapp2.2\zsq.UserApi.pdb
